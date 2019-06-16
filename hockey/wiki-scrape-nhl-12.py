@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 file = open('nhl-links.txt', 'r')
 lines = file.readlines()
 # print(lines[3])
-link1 = lines[10].strip()
+link1 = lines[14].strip()
 file.close()
 
 
@@ -63,8 +63,8 @@ w_file.write(pattern0 + '\n')
 tables = soup.find_all('table', {'class': 'wikitable'})
 #print(len(tables))
 # for Goaltenders
-table_goaltenders = tables[3]
-#print(table_goaltenders)
+table_goaltenders = tables[4]
+# print(table_goaltenders) # print table_goaltenders
 #  print(tables) # prints the table
 trs = table_goaltenders.find_all('tr')
 #print(trs) # prints all the trs
@@ -86,7 +86,7 @@ pattern1 = ' '*5
 
 head1 = f'{headers[0]}{pattern1}|{pattern1}{headers[1]}{pattern1}|{pattern1}{headers[2]}'
 
-# print(head1) #
+#  print(head1) #
 
 
 w_file.write(head1 + '\n')
