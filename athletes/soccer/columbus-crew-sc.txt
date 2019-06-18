@@ -1,0 +1,33 @@
+Columbus Crew SC - Wikipedia 
+============================ 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Joe Bendik | United States
+2 | Midfielder | Luis Argudo | United States
+3 | Defender | Josh Williams | United States
+4 | Defender | Jonathan Mensah | Ghana
+6 | Midfielder | Wil Trapp | United States
+7 | Midfielder | Pedro Santos | Portugal
+8 | Midfielder |  Artur | Brazil
+9 | Midfielder | David Guzmán | Costa Rica
+10 | Midfielder | Federico Higuaín | Argentina
+11 | Forward | Gyasi Zardes | United States
+13 | Midfielder | Ricardo Clark | United States
+14 | Defender | Waylon Francis | Costa Rica
+16 | Midfielder | Hector Jiménez | United States
+18 | Midfielder |  Robinho | Brazil
+19 | Defender | Milton Valenzuela | Argentina
+20 | Midfielder | Eduardo Sosa | Venezuela
+21 | Defender | Alex Crognale | United States
+22 | Defender | Gastón Sauro | Argentina
+23 | Goalkeeper | Zack Steffen | United States
+24 | Goalkeeper | Jon Kempin | United States
+25 | Defender | Harrison Afful | Ghana
+28 | Midfielder | Niko Hansen | Denmark
+29 | Midfielder | David Accam | Ghana
+31 | Defender | Connor Maloney | United States
+32 | Forward | Patrick Mullins | United States
+
+
+Total player: 25

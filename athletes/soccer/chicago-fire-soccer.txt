@@ -1,0 +1,33 @@
+Chicago Fire Soccer Club - Wikipedia 
+==================================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | David Ousted | Denmark
+2 | Defender |  Marcelo | Brazil
+4 | Defender | Johan Kappelhof | Netherlands
+5 | Defender | Francisco Calvo | Costa Rica
+6 | Midfielder | Dax McCarty | United States
+7 | Midfielder | Raheem Edwards | Canada
+9 | Forward | C. J. Sapong | United States
+10 | Midfielder | Aleksandar Katai | Serbia
+11 | Midfielder | Przemysław Frankowski | Poland
+12 | Forward | Amando Moreno | United States
+13 | Midfielder | Brandt Bronico | United States
+14 | Midfielder | Djordje Mihailovic | United States
+17 | Forward | Diego Campos | Costa Rica
+18 | Midfielder | Cristian Martínez | Panama
+19 | Midfielder | Mo Adams | England
+20 | Midfielder | Nico Gaitán | Argentina
+21 | Forward | Fabian Herbers | Germany
+23 | Forward | Nemanja Nikolić | Hungary
+25 | Defender | Jorge Corrales | Cuba
+27 | Goalkeeper | Kenneth Kronholm | United States
+31 | Midfielder | Bastian Schweinsteiger | Germany
+32 | Goalkeeper | Gabriel Slonina | United States
+33 | Midfielder | Jeremiah Gutjahr | United States
+36 | Defender | Andre Reynolds II | United States
+45 | Goalkeeper | Richard Sánchez | Mexico
+
+
+Total player: 25
