@@ -220,7 +220,7 @@ print(f'Female wrestlers')
 pat0 = '-'*len('Female wrestlers')
 print(f'{pat0}')
 
-sd_count = 0
+sdf_count = 0
 trs = tables[5].find_all('tr')
 for i in range(1, len(trs)):
     name=real_name=notes=''
@@ -244,11 +244,11 @@ for i in range(1, len(trs)):
         notes  += note
 
 
-    sd_count += 1
+    sdf_count += 1
 
     print(f'{name} | {real_name} | {notes}')
 
-print(f'\nTotal SmackDown Female: {sd_count}\n')
+print(f'\nTotal SmackDown Female: {sdf_count}\n')
 
 print(f'Other on-air personnel')
 pat0 = '-'*len('Other on-air  personnel')
@@ -715,7 +715,7 @@ for i in range(1, len(trs)):
         notes += note
 
 
-    pc_usm_count += 1
+    pc_usf_count += 1
 
     print(f'{name} | {real_name} | {notes}')
 
@@ -770,7 +770,7 @@ for i in range(1, len(trs)):
 
     print(f'{name} | {real_name} | {notes}')
 
-print(f'\nTotal Performance Center Recruits UK Male: {pc_usf_count}\n')
+print(f'\nTotal Performance Center Recruits UK Male: {pc_uk_count}\n')
 
 print(f'{rosters[9]}')
 pat = '-'*len(rosters[9])
@@ -1093,4 +1093,143 @@ for i in range(1, len(trs)):
 
     print(f'{name} | {real_name} | {notes}')
 
-print(f'\nTotal Creative team Count: {p_count}\n')
+print(f'\nTotal Producers Count: {p_count}\n')
+
+print(f'{rosters[16]}')
+pat = '-'*len(rosters[16])
+print(f'{pat}')
+
+print(f'{header}')
+
+pc_count = 0
+trs = tables[26].find_all('tr')
+for i in range(1, len(trs)):
+    name=real_name=notes=''
+
+    tds = trs[i].find_all('td')
+    if tds[0].a:
+
+        name = tds[0].text
+        idx = name.find('[')
+        name = name[0: int(idx)]
+
+    else:
+        name = tds[0].text.rstrip()
+
+    if tds[1].span and not tds[1].i:
+        real_name = tds[1].span.string.rstrip()
+    elif tds[1].i:
+        real_name = tds[1].i.string.strip()
+    else:
+        real_name = tds[1].text.strip()
+
+    note = tds[2].text.rstrip()
+    if '[' in note:
+        idx = note.find("[")
+        # print(f'{note.find("[")}')
+        # print(f'idx: {idx}')
+        notes += (note[0: int(idx)])
+    elif tds[2].a and ('[' not in tds[2].a.string):
+        notes += tds[2].a.string
+    else:
+        notes += note
+
+
+    pc_count += 1
+
+    print(f'{name} | {real_name} | {notes}')
+
+print(f'\nTotal WWE Performance Center Staff Count: {pc_count}\n')
+
+print(f'{rosters[17]}')
+pat = '-'*len(rosters[17])
+print(f'{pat}')
+
+print('Board of Directors and executive officers')
+pat = '-'*len('Board of Directors and executive officers')
+print(f'{pat}')
+
+print(f'Name {space}|{space} Notes')
+cstaff_count = 0
+trs = tables[27].find_all('tr')
+for i in range(1, len(trs)):
+    name=notes=''
+
+    tds = trs[i].find_all('td')
+    if tds[0].a:
+
+        name = tds[0].text
+        idx = name.find('[')
+        name = name[0: int(idx)]
+    '''
+    else:
+        name = tds[0].text.rstrip()
+
+    if tds[1].span and not tds[1].i:
+        real_name = tds[1].span.string.rstrip()
+    elif tds[1].i:
+        real_name = tds[1].i.string.strip()
+    else:
+        real_name = tds[1].text.strip()
+    '''
+    note = tds[1].text.rstrip()
+    if '[' in note:
+        idx = note.find("[")
+        # print(f'{note.find("[")}')
+        # print(f'idx: {idx}')
+        notes += (note[0: int(idx)])
+    elif tds[1].a and ('[' not in tds[1].a.string):
+        notes += tds[1].a.string
+    else:
+        notes += note
+
+    cstaff_count += 1
+
+    print(f'{name} | {notes}')
+
+print(f'\nTotal Corporate staff count: {cstaff_count}\n')
+
+print('Senior Management')
+pat = '-'*len('Senior Management')
+print(f'{pat}')
+
+sm_count = 0
+trs = tables[28].find_all('tr')
+for i in range(1, len(trs)):
+    name=notes=''
+
+    tds = trs[i].find_all('td')
+    if tds[0].a:
+
+        name = tds[0].text
+        idx = name.find('[')
+        name = name[0: int(idx)]
+    '''
+    else:
+        name = tds[0].text.rstrip()
+
+    if tds[1].span and not tds[1].i:
+        real_name = tds[1].span.string.rstrip()
+    elif tds[1].i:
+        real_name = tds[1].i.string.strip()
+    else:
+        real_name = tds[1].text.strip()
+    '''
+    note = tds[1].text.rstrip()
+    if '[' in note:
+        idx = note.find("[")
+        # print(f'{note.find("[")}')
+        # print(f'idx: {idx}')
+        notes += (note[0: int(idx)])
+    elif tds[1].a and ('[' not in tds[1].a.string):
+        notes += tds[1].a.string
+    else:
+        notes += note
+
+    sm_count += 1
+
+    print(f'{name} | {notes}')
+
+print(f'\nTotal Senior Management count: {sm_count}\n')
+
+

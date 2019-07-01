@@ -159,9 +159,10 @@ Total SmackDown Female: 14
 Other on-air personnel
 -----------------------
 Ring name     |     Real name     |     Notes
+ Eric Bischoff | Eric Bischoff | Executive Director of SmackDown
  Paige | Saraya-Jade Bevis | Manager of Asuka and Kairi Sane
 
-Total Smackdown on-air Personnel: 1
+Total Smackdown on-air Personnel: 2
 
 205 Live
 --------
@@ -217,7 +218,7 @@ Raul Mendoza | Raúl Mendoza |
 Riddick Moss | Michael Rallis | 
 Roderick Strong | Christopher Lindsey | 
 Shane Thorne | Shane Veryzer | 
-[281] | Steven Kupryk | 
+[282] | Steven Kupryk | 
 Tino Sabbatelli | Sabatino Piscitelli | Inactive; torn pectoral muscle
 Tommaso Ciampa | Tommaso Whitney | Inactive; neck injury
 Tyler Breeze | Mattias Clement | 
@@ -237,7 +238,7 @@ Deonna Purrazzo | Deonna Purrazzo |
 Io Shirai | Masami Odate | 
 Jessamyn Duke | Jessamyn Duke | 
 Kacy Catanzaro | Kacy Catanzaro | 
-[306] | Marina Shafir | 
+[307] | Marina Shafir | 
 Mia Yim | Stephanie Bell | 
 Shayna Baszler | Shayna Baszler | NXT Women's Champion
 Taynara Conti | Taynara Melo de Carvalho | 
@@ -259,8 +260,8 @@ Male wrestlers
 --------------
 Ring name     |     Real name     |     Notes
 Alexander Wolfe | Axel Tischer | 
-[322] | Bilal Ansari | 
-[324] | Ashton Smith | 
+[323] | Bilal Ansari | 
+[325] | Ashton Smith | 
 Dave Mastiff | David Minton | 
 Eddie Dennis | Eddie Dennis | 
 Fabian Aichner | Fabian Aichner | Also appears on NXT
@@ -279,14 +280,14 @@ Mark Coffey | Mark Coffey |
 Noam Dar | Noam Dar | 205 Live
 Pete Dunne | Peter England | 
  Primate | Jay Melrose | 
-[348] | Samuel Gradwell | 
-[350] | Ross Cooke | 
+[349] | Samuel Gradwell | 
+[351] | Ross Cooke | 
 Travis Banks | Travis Bligh | 
 Trent Seven | Benjamin Webb | 
 Tyler Bate | Tyler Bate | 
-[322] | Thomas Clifford | 
+[323] | Thomas Clifford | 
  Walter | Walter Hahn | WWE United Kingdom Champion
-[358] | Michael Hitchman | 
+[359] | Michael Hitchman | 
  Wolfgang | Barry Young | 
 Zack Gibson | Jack Rea | NXT UK Tag Team Champion
 
@@ -295,12 +296,12 @@ Total Nxt UK Male: 31
 Female wrestlers
 ----------------
 Ring name     |     Real name     |     Notes
-[362] | Courtney Stewart | 
+[363] | Courtney Stewart | 
 Jazzy Gabert | Marie Gabert | 
  Jinny | Jinny Sandhú | 
 Kay Lee Ray | Kayleigh Rae | 
 Killer Kelly | Raquel Lourenço | 
-[367] | Samantha Allen | 
+[368] | Samantha Allen | 
 Piper Niven | Kimberly Benson | 
 Rhea Ripley | Demi Bennett | 
 Toni Storm | Toni Rossall | NXT UK Women's Champion
@@ -312,7 +313,7 @@ Other on-air personnel
 -----------------------
 Ring name     |     Real name     |     Notes
 Johnny Saint | John Miller | General Manager of NXT UK
-[377] | None | Assistant to the General Manager of NXT UKOccasional wrestler
+[378] | None | Assistant to the General Manager of NXT UKOccasional wrestler
 
 Total Nxt UK on-air Personnel: 2
 
@@ -379,7 +380,7 @@ Rachel Evers | Rachael Ellering |
 Reina González | Victoria Gonzalez | 
 Tegan Nox | Steffanie Newell | Inactive; leg injury
 
-Total Performance Center Recruits US Female: 0
+Total Performance Center Recruits US Female: 9
 
 U.K. Performance Center recruits
 --------------------------------
@@ -389,7 +390,7 @@ Ring name     |     Real name     |     Notes
 Jack Starz | Unknown | 
 Oliver Carter | Oliver Sauter | 
 
-Total Performance Center Recruits UK Male: 0
+Total Performance Center Recruits UK Male: 2
 
 Refrees
 -------
@@ -587,5 +588,68 @@ Sonjay Dutt | Retesh Bhalla |
 Steve Corino | Steven Corino | 
 Tyson Kidd | Theodore Wilson | 
 
-Total Creative team Count: 28
+Total Producers Count: 28
+
+WWE Performance Center staff
+----------------------------
+Ring name     |     Real name     |     Notes
+Brian Duncan | Brian Duncan | Head athletic trainer
+Canyon Ceman | Canyon Ceman | Senior Director of Talent Development
+David Bailey | David Bailey | WWE Performance Center
+Gerald Brisco | Gerald Brisco | Hall of Famer
+Hartley Jackson | Hartley Jackson | TrainerAssistant coach
+Johnny Moss | John Mossop | TrainerAssistant coach
+Matt Bloom | Matthew Bloom | Head coach
+Robbie Brookside | Robert Brooks | TrainerAssistant coach
+Ryan Katz | Ryan Katz | Associate producerPromo trainer
+Scott Garland | Scott Garland | TrainerAssistant coach
+Sean Hayes | Sean Hayes | Strength and conditioning coach
+Serena Deeb | Serena Deeb | TrainerAssistant coach
+Shawn Michaels | Michael Hickenbottom | TrainerHall of Famer
+Tanner Robinson | Tanner Robinson | Assistant strength and conditioning coach
+Tara Halaby | Tara Halaby | Athletic trainerPhysical therapist
+Terry Taylor | Paul Taylor III | TrainerAssistant coach
+
+Total WWE Performance Center Staff Count: 16
+
+WWE Corporate staff
+-------------------
+Board of Directors and executive officers
+-----------------------------------------
+Name      |      Notes
+Basil DeVito | Board of Directors
+ | Chief Marketing & Communications Officer
+David Kenin | Member of the Board of Directors
+Frank Riddick III | Member of the Board of Directors
+George Barrios | Co-PresidentExecutive officerMember of the Board of Directors
+Jeffrey Speed | Member of the Board of Directors
+John Brody | Executive Vice President, Global Sales & PartnershipsSenior Vice President, International
+Joseph Perkins | Member of the Board of Directors
+Kevin Dunn | Member of the Board of Directors
+Laura Brevetti | Senior Vice President, General Counsel and Secretary
+Laureen Ong | Member of the Board of Directors
+Lauren Dienes-Middlen | General Counsel and Executive Vice President, Intellectual Property
+Michelle D. Wilson | Co-PresidentExecutive officerMember of the Board of Directors
+Patricia Gottesman | Member of the Board of Directors
+Rajan Mehta | Chief technology officer
+Stuart Goldfarb | Member of the Board of Directors
+
+Total Corporate staff count: 16
+
+Senior Management
+-----------------
+Barry McMullin | Senior Vice President, Sales and Partnership Marketing
+Emilio Revelo | Director, Content Media Distribution International
+Henry Jacob | London
+Joey Villa | Senior Publicist Manager
+Lance McConomy | Senior Director of Broadcast Operations
+Michael Weitzschnitz | Senior Vice President, Investor Relations and Financial Planning
+Monty Sarhan | Senior Vice President, General Counsel and Secretary
+Patrick Talty | Live Events
+ | Senior Vice President, Consumer Products
+Shane Davis | Coordinator, Community Relations
+Sheetesh Srivastava | Vice President and General Manager – India
+Tara Carraro | Vice President, Corporate Communications
+
+Total Senior Management count: 12
 
