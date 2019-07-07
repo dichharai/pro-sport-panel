@@ -58,16 +58,16 @@ for i in range(1, len(trs)):
     # print(len(tds))
     if tds[0].string:
         name  = tds[0].a.string.rstrip()
-    if tds[1].string:
-        birth = tds[1].string.rstrip()
     if tds[2].string:
-        death = tds[2].string.rstrip()
-    if tds[3].find('a'):
-        nationality = tds[3].a['title'].rstrip()
+        birth = tds[2].string.rstrip()
+    if tds[3].string:
+        death = tds[3].string.rstrip()
+    if tds[1].find('a'):
+        nationality = tds[1].a['title'].rstrip()
     if tds[5].string:
         awards = tds[5].string.rstrip()
     # print(f'{no} | {pos} | {name} | {nationality}')
-    w_file.write(f'{name} | {birth} | {death} | {nationality} | {awards}\n')
+    w_file.write(f'{name} | {nationality} | {birth} | {death} | {awards}\n')
     total_player += 1
 
 
