@@ -13,7 +13,7 @@ title = soup.title.string.rstrip()
 write_file_name_list = title.split(' ')
 #  print(write_file_name_list)
 
-w_file_name = 'female-tennis-player.txt'
+w_file_name = 'female-soccer-team-tennis-player.txt'
 
 # print(w_file_name)
 w_file = open(f'../athletes/tennis/{w_file_name}', 'w+')
