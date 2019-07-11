@@ -1,0 +1,35 @@
+Houston Dynamo - Wikipedia 
+========================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Tyler Deric | United States
+2 | Defender | Alejandro Fuenmayor | Venezuela
+3 | Defender | Adam Lundkvist | Sweden
+5 | Midfielder | Juan David Cabezas | Colombia
+6 | Defender | Aljaž Struna | Slovenia
+7 | Defender | DaMarcus Beasley | United States
+8 | Midfielder | Memo Rodríguez | United States
+9 | Forward | Mauro Manotas | Colombia
+10 | Midfielder | Tomás Martínez | Argentina
+11 | Midfielder | Tommy McNamara | United States
+12 | Defender | Chris Duvall | United States
+14 | Midfielder | Marlon Hairston | United States
+15 | Defender | Maynor Figueroa | Honduras
+16 | Defender | Kevin Garcia | United States
+17 | Forward | Alberth Elis | Honduras
+19 | Forward | Michael Salazar | Belize
+20 | Defender | A. J. DeLaGarza | Guam
+21 | Forward | Ronaldo Peña | Venezuela
+22 | Midfielder | Matías Vera | Argentina
+23 | Goalkeeper | Joe Willis | United States
+24 | Midfielder | Darwin Cerén | El Salvador
+25 | Midfielder | Eric Bird | United States
+26 | Goalkeeper | Michael Nelson | United States
+27 | Midfielder | Boniek García | Honduras
+28 | Defender | Erik McCue | Sweden
+29 | Defender | Sam Junqua | United States
+31 | Forward | Romell Quioto | Honduras
+
+
+Total player: 27

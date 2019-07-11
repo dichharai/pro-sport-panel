@@ -1,0 +1,34 @@
+FC Dallas - Wikipedia 
+===================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Jesse González | United States
+2 | Defender | Reggie Cannon | United States
+3 | Defender | Reto Ziegler | Switzerland
+4 | Defender |  Bressan | Brazil
+7 | Midfielder | Carlos Gruezo | Ecuador
+8 | Midfielder | Bryan Acosta | Honduras
+9 | Forward | Cristian Colmán | Paraguay
+10 | Midfielder | Pablo Aránguiz | Chile
+11 | Midfielder | Santiago Mosquera | Colombia
+12 | Midfielder | Ryan Hollingshead | United States
+13 | Forward | Zdeněk Ondrášek | Czech Republic
+14 | Forward | Dominique Badji | Senegal
+15 | Midfielder | Jacori Hayes | United States
+16 | Forward | Ricardo Pepi | United States
+18 | Midfielder | Brandon Servania | United States
+19 | Midfielder | Paxton Pomykal | United States
+20 | Goalkeeper | Jimmy Maurer | United States
+21 | Midfielder | Michael Barrios | Colombia
+23 | Midfielder | Thomas Roberts | United States
+24 | Defender | Matt Hedges | United States
+25 | Defender | Callum Montgomery | Canada
+26 | Defender | John Nelson | United States
+27 | Forward | Jesús Ferreira | Colombia
+29 | Forward | Bryan Reynolds | United States
+30 | Goalkeeper | Kyle Zobeck | United States
+33 | Midfielder | Edwin Cerrillo | United States
+
+
+Total player: 26

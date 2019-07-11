@@ -1,0 +1,35 @@
+FC Cincinnati - Wikipedia 
+========================= 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+2 | Defender | Kendall Waston | Costa Rica
+3 | Defender | Forrest  Lasso | United States
+4 | Defender | Greg Garza | United States
+6 | Midfielder | Leonardo Bertone | Switzerland
+7 | Midfielder | Roland Lamah | Belgium
+8 | Midfielder | Víctor Ulloa | Mexico
+9 | Forward | Fanendo Adi | Nigeria
+11 | Forward | Darren Mattocks | Jamaica
+13 | Goalkeeper | Jimmy Hague | United States
+14 | Defender | Nick Hagglund | United States
+15 | Midfielder | Allan Cruz | Costa Rica
+16 | Midfielder | Eric Alexander | United States
+17 | Defender | Mathieu Deplagne | France
+18 | Goalkeeper | Spencer Richey | United States
+19 | Midfielder | Corben Bone | United States
+20 | Midfielder | Jimmy McLaughlin | United States
+22 | Goalkeeper | Przemysław Tytoń | Poland
+24 | Midfielder | Frankie Amaya | United States
+26 | Midfielder | Tommy McCabe | United States
+27 | Midfielder | Fatai Alashe | United States
+31 | Forward | Kekuta Manneh | Gambia
+32 | Defender | Justin Hoyte | Trinidad and Tobago
+33 | Midfielder | Caleb Stanko | United States
+45 | Midfielder | Emmanuel  Ledesma | Argentina
+81 | Midfielder | Rashawn Dally | Jamaica
+92 | Defender | Alvas Powell | Jamaica
+93 | Midfielder | Kenny Saief | United States
+
+
+Total player: 27

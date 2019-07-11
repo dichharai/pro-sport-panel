@@ -1,0 +1,34 @@
+New England Revolution - Wikipedia 
+================================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Cody Cropper | United States
+2 | Defender | Andrew Farrell | United States
+3 | Defender | Jalil Anibaba | United States
+5 | Midfielder | Isaac Angking | United States
+6 | Midfielder | Scott Caldwell | United States
+7 | Forward | Brian Wright | Canada
+8 | Defender | Edgar Castillo | United States
+9 | Forward | Juan Fernando Caicedo | Colombia
+10 | Forward | Teal Bunbury | United States
+11 | Forward | Tajon Buchanan | Canada
+12 | Forward | Justin Rennicks | United States
+14 | Forward | Diego Fagúndez | Uruguay
+15 | Defender | Brandon Bye | United States
+17 | Forward | Juan Agudelo | United States
+18 | Goalkeeper | Brad Knighton | United States
+19 | Defender | Antonio Delamea Mlinar | Slovenia
+21 | Midfielder | Zachary Herivaux | Haiti
+22 | Midfielder | Carles Gil | Spain
+23 | Midfielder | Wilfried Zahibo | France
+24 | Defender | DeJuan Jones | United States
+27 | Midfielder | Luis Caicedo | Colombia
+28 | Defender | Michael Mancienne | England
+29 | Midfielder | Nicolas Firmino | Brazil
+30 | Goalkeeper | Matt Turner | United States
+70 | Forward | Cristian Penilla | Ecuador
+91 | Defender | Gabriel Somi | Syria
+
+
+Total player: 26

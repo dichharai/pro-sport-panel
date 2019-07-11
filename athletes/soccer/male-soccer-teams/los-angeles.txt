@@ -1,0 +1,33 @@
+Los Angeles FC - Wikipedia 
+========================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Tyler Miller | United States
+2 | Defender | Jordan Harvey | United States
+3 | Defender | Steven Beitashour | Iran
+4 | Defender | Eddie Segura | Colombia
+6 | Defender | Danilo Silva | Brazil
+7 | Forward | Latif Blessing | Ghana
+9 | Forward | Diego Rossi | Uruguay
+10 | Forward | Carlos Vela | Mexico
+11 | Midfielder | Peter-Lee Vassell | Jamaica
+12 | Defender | Niko Hämäläinen | Finland
+13 | Defender | Mohamed El Monir | Libya
+14 | Midfielder | Mark-Anthony Kaye | Canada
+15 | Midfielder | Alejandro Guido | United States
+16 | Midfielder | Javi Pérez | Spain
+18 | Forward | Joshua Pérez | United States
+20 | Midfielder | Eduard Atuesta | Colombia
+21 | Forward | Christian Ramirez | United States
+22 | Forward | Rodolfo Zelaya | El Salvador
+23 | Goalkeeper | Pablo Sisniega | Mexico
+24 | Midfielder | Lee Nguyen | United States
+25 | Defender | Walker Zimmerman | United States
+26 | Forward | Adrien Perez | United States
+27 | Defender | Tristan Blackmon | United States
+28 | Forward | Shaft Brewer Jr. | United States
+99 | Forward | Adama Diomande | Norway
+
+
+Total player: 25

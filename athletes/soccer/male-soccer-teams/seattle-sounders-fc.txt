@@ -1,0 +1,35 @@
+Seattle Sounders FC - Wikipedia 
+=============================== 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Trey Muse | United States
+3 | Defender | Jonathan Campbell | United States
+4 | Midfielder | Gustav Svensson | Sweden
+5 | Defender | Nouhou Tolo | Cameroon
+7 | Midfielder | Cristian Roldan | United States
+8 | Midfielder | Víctor Rodríguez | Spain
+9 | Forward | Raúl Ruidíaz | Peru
+10 | Midfielder | Nicolás Lodeiro | Uruguay
+11 | Defender | Brad Smith | Australia
+12 | Defender | Saad Abdul-Salaam | United States
+13 | Forward | Jordan Morris | United States
+16 | Midfielder | Alex Roldan | United States
+17 | Forward | Will Bruin | United States
+18 | Defender | Kelvin Leerdam | Netherlands
+19 | Midfielder | Harry Shipp | United States
+20 | Defender | Kim Kee-hee | South Korea
+21 | Midfielder | Jordy Delem | Martinique
+23 | Midfielder | Henry Wingo | United States
+24 | Goalkeeper | Stefan Frei | Switzerland
+25 | Defender | Xavier Arreaga | Ecuador
+29 | Defender | Román Torres | Panama
+33 | Defender | Joevin Jones | Trinidad and Tobago
+35 | Goalkeeper | Bryan Meredith | United States
+70 | Midfielder | Handwalla Bwana | Kenya
+75 | Midfielder | Danny Leyva | United States
+87 | Forward | Alfonso Ocampo-Chavez | United States
+99 | Forward | Justin Dhillon | United States
+
+
+Total player: 27

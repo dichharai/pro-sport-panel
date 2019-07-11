@@ -1,0 +1,33 @@
+New York City FC - Wikipedia 
+============================ 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Sean Johnson | United States
+2 | Defender | Ben Sweat | United States
+3 | Defender | Anton Tinnerholm | Sweden
+4 | Defender | Maxime Chanot | Luxembourg
+6 | Defender | Alexander Callens | Peru
+8 | Midfielder | Alexander Ring | Finland
+9 | Forward | Héber | Brazil
+10 | Midfielder | Maximiliano Moralez | Argentina
+11 | Midfielder | Valentín Castellanos | Argentina
+12 | Midfielder | Ebenezer Ofori | Ghana
+13 | Goalkeeper | Luis Barraza | United States
+14 | Midfielder | Juan Pablo Torres | United States
+15 | Midfielder | Tony Rocha | United States
+16 | Midfielder | James Sands | United States
+19 | Midfielder | Jesús Medina | Paraguay
+21 | Midfielder | Dan Bedoya | Colombia
+22 | Defender | Rónald Matarrita | Costa Rica
+25 | Defender | Joe Scally | United States
+28 | Forward | Alexandru Mitriță | Romania
+29 | Forward | Ismael Tajouri-Shradi | Libya
+33 | Defender | Sebastien Ibeagha | United States
+41 | Goalkeeper | Brad Stuver | United States
+55 | Midfielder | Keaton Parks | United States
+80 | Midfielder | Justin Haak | United States
+— | Forward | Gary Mackay-Steven | Scotland
+
+
+Total player: 25

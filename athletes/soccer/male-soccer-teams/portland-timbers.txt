@@ -1,0 +1,36 @@
+Portland Timbers - Wikipedia 
+============================ 
+
+No.   |   Position        |        Player      |      Nation
+                                                            
+1 | Goalkeeper | Jeff Attinella | United States
+2 | Defender | Jorge Moreira | Paraguay
+4 | Defender | Jorge Villafaña | United States
+5 | Defender | Claude Dielna | France
+7 | Forward | Brian Fernández | Argentina
+8 | Midfielder | Diego Valeri | Argentina
+10 | Midfielder | Sebastián Blanco | Argentina
+11 | Forward | Andy Polo | Peru
+12 | Goalkeeper | Steve Clark | United States
+14 | Midfielder | Andrés Flores | El Salvador
+16 | Defender | Zarek Valentin | United States
+17 | Forward | Jeremy Ebobisse | United States
+18 | Defender | Julio Cascante | Costa Rica
+19 | Midfielder | Tomás Conechny | Argentina
+21 | Midfielder | Diego Chará | Colombia
+22 | Midfielder | Cristhian Paredes | Paraguay
+25 | Defender | Bill Tuiloma | New Zealand
+26 | Forward | Lucas Melano | Argentina
+27 | Forward | Dairon Asprilla | Colombia
+28 | Forward | Foster Langsdorf | United States
+30 | Midfielder | Eryk Williamson | United States
+31 | Goalkeeper | Aljaz Ivacic | Slovenia
+32 | Defender | Marco Farfan | United States
+33 | Defender | Larrys Mabiala | Democratic Republic of the Congo
+40 | Midfielder | Renzo Zambrano | Venezuela
+43 | Goalkeeper | Kendall McIntosh | United States
+44 | Midfielder | Marvin Loría | Costa Rica
+94 | Defender | Modou Jadama | Gambia
+
+
+Total player: 28
