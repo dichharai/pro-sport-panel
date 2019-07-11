@@ -1,0 +1,29 @@
+United States women's national soccer team - Wikipedia
+------------------------------------------------------
+No.   |   Pos.   |   Player   |   Date of birth (age)   |   Caps   |   Goals   |   Club
+1 | GK | Alyssa Naeher | 1988-04-20 | 53 | 0 | United States, Chicago Red Stars
+18 | GK | Ashlyn Harris | 1985-10-19 | 21 | 0 | United States, Orlando Pride
+21 | GK | Adrianna Franch | 1990-11-12 | 1 | 0 | United States, Portland Thorns FC
+4 | DF | Becky Sauerbrunn | 1985-06-06 | 164 | 0 | United States, Utah Royals FC
+5 | DF | Kelley O'Hara | 1988-08-04 | 124 | 2 | United States, Utah Royals FC
+7 | DF | Abby Dahlkemper | 1993-05-13 | 47 | 0 | United States, North Carolina Courage
+11 | DF | Ali Krieger | 1984-07-28 | 103 | 1 | United States, Orlando Pride
+12 | DF | Tierna Davidson | 1998-09-19 | 21 | 1 | United States, Chicago Red Stars
+14 | DF | Emily Sonnett | 1993-11-25 | 34 | 0 | United States, Portland Thorns FC
+19 | DF | Crystal Dunn | 1992-07-03 | 92 | 24 | United States, North Carolina Courage
+3 | MF | Sam Mewis | 1992-10-09 | 56 | 14 | United States, North Carolina Courage
+6 | MF | Morgan Brian | 1993-02-26 | 83 | 6 | United States, Chicago Red Stars
+8 | MF | Julie Ertz | 1992-04-06 | 88 | 19 | United States, Chicago Red Stars
+9 | MF | Lindsey Horan | 1994-05-26 | 74 | 10 | United States, Portland Thorns FC
+16 | MF | Rose Lavelle | 1995-05-14 | 33 | 10 | United States, Washington Spirit
+20 | MF | Allie Long | 1987-08-13 | 46 | 6 | United States, Reign FC
+2 | FW | Mallory Pugh | 1998-04-29 | 56 | 17 | United States, Washington Spirit
+10 | FW | Carli Lloyd | 1982-07-16 | 281 | 113 | United States, Sky Blue FC
+13 | FW | Alex Morgan | 1989-07-02 | 169 | 107 | United States, Orlando Pride
+15 | FW | Megan Rapinoe | 1985-07-05 | 158 | 50 | United States, Reign FC
+17 | FW | Tobin Heath | 1988-05-29 | 156 | 30 | United States, Portland Thorns FC
+22 | FW | Jessica McDonald | 1988-02-28 | 8 | 2 | United States, North Carolina Courage
+23 | FW | Christen Press | 1988-12-29 | 123 | 49 | United States, Utah Royals FC
+
+
+Total  Player: 23
