@@ -1,0 +1,18 @@
+Sources for data
+================
+
+US Badminton Player
+-------------------
+https://en.wikipedia.org/wiki/Category:American_female_badminton_players
+
+https://en.wikipedia.org/wiki/Category:American_male_badminton_players
+
+https://en.wikipedia.org/wiki/Category:Olympic_badminton_players_of_the_United_States
+
+US Golf Player
+--------------
+https://en.wikipedia.org/wiki/List_of_American_Arnold_Palmer_Cup_golfers
+https://en.wikipedia.org/wiki/List_of_American_PGA_Cup_golfers
+https://en.wikipedia.org/wiki/List_of_American_Presidents_Cup_golfers
+https://en.wikipedia.org/wiki/List_of_American_Ryder_Cup_golfers
+https://en.wikipedia.org/wiki/List_of_American_Walker_Cup_golfers
