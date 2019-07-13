@@ -45,6 +45,7 @@ w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 
 sentinel=0
+racer = 0
 
 for i in range(2, len(trs)):
     tr=trs[i]
@@ -60,6 +61,7 @@ for i in range(2, len(trs)):
 
             w_file.write(f'{year}, ({nation}, {name})\n')
             sentinel += 1
+            racer += 1
         else:
             str_para = str(tds[0])
             year = str_para[str_para.find('>') + 1:str_para.find(':')]
@@ -70,12 +72,15 @@ for i in range(2, len(trs)):
     else:
         break
 
+print(f'Total Racer: {racer}')
+
 
 championship = 'USAC National Championship'
 pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 sentinel += 2
+racer = 0
 
 for i in range(sentinel+1, len(trs)):
     tr = trs[i]
@@ -92,6 +97,7 @@ for i in range(sentinel+1, len(trs)):
 
             w_file.write(f'{year}, ({nation}, {name})\n')
             sentinel += 1
+            racer += 1
         else:
             str_para = str(tds[0])
             year = str_para[str_para.find('>') + 1:str_para.find(':')]
@@ -99,8 +105,11 @@ for i in range(sentinel+1, len(trs)):
             # print(f'{type(tds[0])}')
             w_file.write(f'{year}, {descrip}\n')
             sentinel += 1
+            racer += 1
     else:
         break
+
+print(f'Total Racer: {racer}')
 
 championship = 'USAC Gold  Crown Championship'
 pat = '-'*len(championship)
@@ -108,6 +117,7 @@ w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 cart_start = sentinel
 sentinel += 5
+racer = 0
 
 for i in range(sentinel, len(trs)):
     tr = trs[i]
@@ -125,14 +135,18 @@ for i in range(sentinel, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
     else:
         break
+
+print(f'Total Racer: {racer}')
 
 championship = 'Indy Racing League'
 pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 sentinel += 1
+racer = 0
 
 for i in range(sentinel, len(trs)):
     tr = trs[i]
@@ -150,14 +164,18 @@ for i in range(sentinel, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
+
     else:
         break
 
+print(f'Total Racer: {racer}')
 championship = 'IndyCar Series'
 pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 sentinel += 1
+racer = 0
 
 for i in range(sentinel, len(trs)):
     tr = trs[i]
@@ -174,6 +192,8 @@ for i in range(sentinel, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
+
     elif tr.find('th') and len(tds)==2:
         year = tds[0].a.string.rstrip()
         a_s = tds[1].find_all('a')
@@ -183,15 +203,18 @@ for i in range(sentinel, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
     else:
         break
 
+print(f'Total Racer: {racer}')
 
 championship = 'IndyCar Series'
 pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 sentinel += 1
+racer = 0
 
 for i in range(sentinel, len(trs)):
     tr = trs[i]
@@ -209,9 +232,11 @@ for i in range(sentinel, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
     else:
         break
 
+print(f'Total Racer: {racer}')
 ccws = sentinel+2
 
 championship = 'CART Indy Car Series'
@@ -219,7 +244,7 @@ pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
 w_file.write(f'{pat}\n')
 # print(trs[cart_start+2])
-
+racer = 0
 for i in range(cart_start+2, len(trs)):
     tr  = trs[i]
     tds = tr.find_all('td')
@@ -251,6 +276,8 @@ for i in range(cart_start+2, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
+
     elif len(tds) == 3:
         year = tds[1].a.string.rstrip()
         a_s = tds[2].find_all('a')
@@ -260,7 +287,9 @@ for i in range(cart_start+2, len(trs)):
         w_file.write(f'{year}, ({nation}, {name})\n')
 
         sentinel += 1
+        racer += 1
 
+print(f'Total Racer: {racer}')
 championship = 'Champ Car World Series'
 pat = '-'*len(championship)
 w_file.write(f'\n{championship}\n')
