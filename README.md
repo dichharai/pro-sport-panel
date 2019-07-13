@@ -1,5 +1,7 @@
 # pro-sport-panel
-The following description tells the layout of each file in athlete folder. It also gives total number of players scrapped for each sport.
+The following description tells the layout of each file in athlete folder. It also gives total number of players scrapped for each sport. The sports are the top 10 popular sport of US. 
+
+Total number of players: <b>23,492</b>
 
 ##  National Football Conference
 File contains  list of current team rosters. Each roster contains `player #`, `player name` and  player's position - `quarterbacks`, `running backs`, `wide receivers`, `tight  ends`, `offensive linemen`, `defensive linemen`, `linebackers`, `defensive backs`, `special teams`, and `reserve lists`.
