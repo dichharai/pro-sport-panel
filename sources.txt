@@ -1,13 +1,83 @@
 Sources for data
 ================
+American Football
+-----------------
+https://en.wikipedia.org/wiki/List_of_current_AFC_team_rosters
+https://en.wikipedia.org/wiki/List_of_current_NFC_team_rosters
 
-US Badminton Player
--------------------
-https://en.wikipedia.org/wiki/Category:American_female_badminton_players
+Baseball
+--------
+https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_team_rosters
 
-https://en.wikipedia.org/wiki/Category:American_male_badminton_players
+Ice Hockey
+----------
+https://en.wikipedia.org +
+/wiki/List_of_Anaheim_Ducks_players
+/wiki/List_of_Arizona_Coyotes_players
+/wiki/List_of_Boston_Bruins_players
+/wiki/List_of_Buffalo_Sabres_players
+/wiki/List_of_Calgary_Flames_players
+/wiki/List_of_Carolina_Hurricanes_players
+/wiki/List_of_Chicago_Blackhawks_players
+/wiki/List_of_Colorado_Avalanche_players
+/wiki/List_of_Columbus_Blue_Jackets_players
+/wiki/List_of_Dallas_Stars_players
+/wiki/List_of_Detroit_Red_Wings_players
+/wiki/List_of_Edmonton_Oilers_players
+/wiki/List_of_Florida_Panthers_players
+/wiki/List_of_Los_Angeles_Kings_players
+/wiki/List_of_Minnesota_Wild_players
+/wiki/List_of_Montreal_Canadiens_players
+/wiki/List_of_Nashville_Predators_players
+/wiki/List_of_New_Jersey_Devils_players
+/wiki/List_of_New_York_Islanders_players
+/wiki/List_of_New_York_Rangers_players
+/wiki/List_of_Ottawa_Senators_players
+/wiki/List_of_Philadelphia_Flyers_players
+/wiki/List_of_Pittsburgh_Penguins_players
+/wiki/List_of_San_Jose_Sharks_players
+/wiki/List_of_St._Louis_Blues_players
+/wiki/List_of_Tampa_Bay_Lightning_players
+/wiki/List_of_Toronto_Maple_Leafs_players
+/wiki/List_of_Vancouver_Canucks_players
+/wiki/List_of_Vegas_Golden_Knights_players
+/wiki/List_of_Washington_Capitals_players
+/wiki/List_of_Winnipeg_Jets_players
 
-https://en.wikipedia.org/wiki/Category:Olympic_badminton_players_of_the_United_States
+Soccer/Football/Football Association
+------------------------------------
+https://en.wikipedia.org/wiki/United_States_women%27s_national_soccer_team
+https://en.wikipedia.org/ +
+/wiki/Atlanta_United_FC
+/wiki/Chicago_Fire_Soccer_Club
+/wiki/FC_Cincinnati
+/wiki/Columbus_Crew_SC
+/wiki/D.C._United
+/wiki/Montreal_Impact
+/wiki/New_England_Revolution
+/wiki/New_York_City_FC
+/wiki/New_York_Red_Bulls
+/wiki/Orlando_City_SC
+/wiki/Philadelphia_Union
+/wiki/Toronto_FC
+/wiki/Colorado_Rapids
+/wiki/FC_Dallas
+/wiki/Houston_Dynamo
+/wiki/LA_Galaxy
+/wiki/Los_Angeles_FC
+/wiki/Minnesota_United_FC
+/wiki/Portland_Timbers
+/wiki/Real_Salt_Lake
+/wiki/San_Jose_Earthquakes
+/wiki/Seattle_Sounders_FC
+/wiki/Sporting_Kansas_City
+/wiki/Vancouver_Whitecaps_FC
+
+Tennis
+------
+https://en.wikipedia.org/wiki/List_of_female_tennis_players
+https://en.wikipedia.org/wiki/List_of_male_doubles_tennis_players
+https://en.wikipedia.org/wiki/List_of_male_singles_tennis_players
 
 US Golf Player
 --------------
@@ -16,3 +86,21 @@ https://en.wikipedia.org/wiki/List_of_American_PGA_Cup_golfers
 https://en.wikipedia.org/wiki/List_of_American_Presidents_Cup_golfers
 https://en.wikipedia.org/wiki/List_of_American_Ryder_Cup_golfers
 https://en.wikipedia.org/wiki/List_of_American_Walker_Cup_golfers
+
+Wrestling | WWE
+---------------
+https://en.wikipedia.org/wiki/List_of_WWE_personnel
+
+Motor Sports
+------------
+https://en.wikipedia.org/wiki/2018_Formula_One_World_Championship
+https://en.wikipedia.org/wiki/List_of_American_Championship_Car_winners
+https://en.wikipedia.org/wiki/American_open-wheel_car_racing
+
+
+US Badminton Player
+-------------------
+https://en.wikipedia.org/wiki/Category:American_female_badminton_players
+https://en.wikipedia.org/wiki/Category:American_male_badminton_players
+https://en.wikipedia.org/wiki/Category:Olympic_badminton_players_of_the_United_States
+
